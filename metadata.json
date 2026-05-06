@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Message Tracker",
+  "description": "Professional Chrome extension to track and analyze your daily sent messages across LinkedIn and Sales Navigator with historical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
